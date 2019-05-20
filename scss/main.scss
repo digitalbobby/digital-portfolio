@@ -1,4 +1,5 @@
 @import "config"; //'partials' file which holds variables and mixins to reduce clutter
+@import "menu";
 
 * {
   box-sizing: border-box; //this prevents padding/borders from altering height/width size
